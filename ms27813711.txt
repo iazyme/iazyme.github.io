@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Microsoft 365 的域所有权验证文件 - 放置在网站根目录中",
+  "Domain": "iazy.me",
+  "Id": "fbd46fd7-3f7d-4009-953b-7e4cf66e89be"
+}
